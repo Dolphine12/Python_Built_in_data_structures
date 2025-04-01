@@ -1,6 +1,6 @@
 ## WEEK TWO ASSIGNMENT
 
-#DESCRIPTION
+# DESCRIPTION
 
  1. Create an empty list called my_list.
  2. Append the following elements To my_list: 10, 20, 30, 40.
